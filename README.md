@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me find me on YouTube
 - 😄 Pronouns: english Русский español
-- ⚡ Fun fact: you can code on phone on gitnub
+- ⚡ Fun fact: you can code on phone on GitHub
 
 <!---
 Sofi123sobackup/Sofi123sobackup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
